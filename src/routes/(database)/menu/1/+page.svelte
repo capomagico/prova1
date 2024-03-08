@@ -21,7 +21,7 @@
 
 	export const props = create('menu', {
 		nome: generateRandomString(10),
-		ristorante: generateRandomString(10),
+		ristorante: generateRandomString(5),
 		prezzo: generateRandomNumber(2),
 		img: 'https://images.unsplash.com/photo-1709142223251-f3c45261540e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NHx8fGVufDB8fHx8fA%3D%3D'
 	});
