@@ -22,8 +22,8 @@
 
 <style>
 	.card_ristorante {
-		border-top-left-radius: 20px;
-		border-top-right-radius: 20px;
+		border-top-left-radius: 40px;
+		border-top-right-radius: 40px;
 		background-color: rgb(255, 233, 180);
 		width: 300px;
 		color: black;
